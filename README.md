@@ -166,8 +166,8 @@ http://localhost:3000
 
 Your Name
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
+* GitHub: https://github.com/kanishgask
+* LinkedIn:linkedin.com/in/kanishga-shanmugam-7211a7283
 
 ---
 
